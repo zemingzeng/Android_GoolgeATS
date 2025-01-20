@@ -1,5 +1,5 @@
 # Anndroid_GoolgeATS
-安装简略流程和命令
+## 安装简略流程和命令
 1.install ats :
 ```
       address:https://source.android.com/docs/core/tests/development/android-test-station/ats-user-guide?hl=zh-cn#install-with-installer
