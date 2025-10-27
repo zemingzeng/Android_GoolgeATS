@@ -1,4 +1,4 @@
-# Anndroid_GoolgeATS
+# Android_GoolgeATS
 ## 安装简略流程和命令
 1.install ats :
 ```
